@@ -12,14 +12,10 @@
 
 **联系我**
 
-微信：zgq25302111（加我为好友时请说明来意）
+微信:zgq25302111（加我为好友时请说明来意）
 
-微博：王晓天（weibo.com/zgq25302111）
+微信公众号:一杯山楂水
 
-知乎：王晓天（zhihu.com/people/zgq25302111）
-
-豆瓣：王晓天（douban.com/people/zgq25302111）
-
- 
+GitHub:https://github.com/zgq25302111
 
 欢迎转载。
