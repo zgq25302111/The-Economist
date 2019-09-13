@@ -1,6 +1,6 @@
 **我是谁？**
 
-常泡山楂水喝，所以公众号取名为「一杯山楂水」。86年生，内蒙古人，专业是计算机，在北京从事IT工作多年，热爱Coding和英语，长跑爱好者，从未怀疑科技在我这里的力量。每日阅读《经济学人》等英语杂志，用英语获取新知，与世界持续连线。希望我们一起通过用英语这件小事，做有趣的事认识有意思的人，成为更自律、自信的自己。
+常泡山楂水喝，所以公众号取名为「一杯山楂水」。86年生，内蒙古人，专业是计算机，在北京从事IT工作多年，热爱Coding和英语，长跑爱好者，从未怀疑科技在我这里的力量。每日阅读《经济学人》等英语杂志，用英语获取新知，与世界持续连线。希望我们一起通过"用英语"这件小事，做有趣的事认识有意思的人，成为更自律、自信的自己。
 
 Born and bred in a north town in Inner Mongolia, Guoqiang,Zhang, a.k.a(also known as) HappyJack, is an unyieldingly lifelong learner specializing in computer and English. 
 
