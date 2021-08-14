@@ -1,0 +1,37 @@
+When you try to launch your web server, you might have this error. It means that another program already uses the port you have chosen. To solve it check that you have not forgotten to stop another server running on your machine.
+
+MacOs / Linux
+
+You can check which program is listening on port 8084 with this command :
+
+$ sudo lsof -i 8084
+
+lsof means “list open files”.
+
+The column COMMAND allow you to identify the command name
+
+PID is the process id (10206)
+
+USER : is the user that launched the program (here me)
+
+TYPE : inform you about the type of the open file. (here IPv4)
+
+From the command line, you can directly kill the process with the following command :
+
+$ kill 10206
+
+Windows
+
+The following command will give you the process id of the program listening on port 8084:
+
+$ netstat -ano | find "8084"
+TCP 0.0.0.0:8084 0.0.0.0:0 LISTENING 10206
+
+10206 is the process id of the program listening on 0.0.0.0:8084.
+
+To kill this process, you can use the following command :
+
+$ taskkill /F /PID 10206
+
+ref:
+https://www.practical-go-lessons.com/chap-26-basic-http-server
